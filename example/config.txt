@@ -1,0 +1,2 @@
+Prefix plugins/STAN/example/
+Plugin STAN inputfile parameters.txt outputfile output.rds
